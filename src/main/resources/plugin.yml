@@ -1,0 +1,5 @@
+name: bedrock-compatability
+authors: ['windcolor']
+version: ${project.version} (build ${BUILD_NUMBER})
+main: com.windpvp.bedrock.BedrockCompat
+depend: [ ProtocolLib ]
