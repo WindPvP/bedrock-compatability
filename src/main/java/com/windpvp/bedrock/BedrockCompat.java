@@ -9,7 +9,7 @@ public class BedrockCompat extends JavaPlugin {
     @Override
     public void onEnable() {
         SwordBlockInterceptor.register(this);
-        getLogger().info("AdminTools enabled (1.8.8 ProtocolLib)");
+        getLogger().info("bedrock-compatability enabled (1.8.8 ProtocolLib)");
     }
 
     @Override
